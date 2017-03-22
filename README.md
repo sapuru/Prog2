@@ -1,1 +1,1 @@
-Ejercicios
+Ejercicios sencillos en Java.
